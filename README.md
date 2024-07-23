@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="230" src="https://i.pinimg.com/originals/b2/87/c0/b287c0acd7043d05034d8b21e5f84492.gif"  />
+<img align="right" height="230" src="https://i.pinimg.com/originals/b2/87/c0/b287c0acd7043d05034d8b21e5f84492.gif"/>
 
 ###
 <h3 align="left">Connect with me:</h3>
@@ -15,9 +15,9 @@
 <a href="https://twitter.com/heyykarannnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heyykarannnnn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/heyykarannnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heyykarannnnn" height="30" width="40" /></a>
 <a href="https://instagram.com/heyykarannnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyykarannnnn" height="30" width="40" /></a>
+<a href="https://chatwith.io/s/64c3703b6f8c8" target="blank"><img align="center" src="https://img.icons8.com/dusk/64/whatsapp.png" alt="heyykarannnnn" height="30" width="30" /></a>
 <a href="https://dribbble.com/heyykarannnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="heyykarannnnn" height="30" width="40" /></a>
 </p>
-
 
 ###
 
